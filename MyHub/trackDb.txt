@@ -2,12 +2,12 @@ track track1
 type bigWig
 shortLabel 2100
 longLabel Coverage track from 2100 RNAi
-bigDataUrl de.cyverse.org/data/ds/iplant/home/ledrees/2100_mean_cov.bw?type=file&resourceId=d9de8a18-97f7-11f0-b0fc-90e2ba675364
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/ledrees/2100_mean_cov.bw
 visibility full
 
 track track2
 type bigWig
 shortLabel eGFP
 longLabel Coverage track from eGFP RNAi
-bigDataUrl https://de.cyverse.org/data/ds/iplant/home/ledrees/GFP_mean_cov.bw?type=file&resourceId=d8f259fe-97f7-11f0-b0fc-90e2ba675364
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/ledrees/GFP_mean_cov.bw
 visibility full
