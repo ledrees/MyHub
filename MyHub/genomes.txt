@@ -1,2 +1,2 @@
-genome schMedA2h1-Jul2022
+genome https://data.cyverse.org/dav-anon/iplant/home/ledrees/schMedA2_h1.2bit
 trackDb trackDb.txt
